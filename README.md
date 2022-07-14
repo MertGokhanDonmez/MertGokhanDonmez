@@ -1,11 +1,7 @@
+# Hi, I am Gokhan. :smile:
 
 
-<h2 color="Yellow">
-
-Hi, I am Gokhan. :smile:
-</h2> 
-
-# Mobile Developer :iphone:
+## Mobile Developer :iphone:
 <div align="center">
 
   ### My Other Platforms
