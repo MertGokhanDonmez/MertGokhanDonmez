@@ -1,7 +1,7 @@
 # Hi, I am Gokhan. :smile:
 
 
-## Mobile Developer :iphone:
+<!-- ## Mobile Developer :iphone: -->
 <div align="center">
 
   ### My Other Platforms
