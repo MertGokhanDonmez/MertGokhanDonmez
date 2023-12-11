@@ -4,7 +4,7 @@
 <!-- ## Mobile Developer :iphone: -->
 <div align="center">
 
-  ### My Other Platforms
+  ### My Other Platforms (You can click this buttons)
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-g%C3%B6khan-d%C3%B6nmez-859a90186/)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mertgokhandonmez)
