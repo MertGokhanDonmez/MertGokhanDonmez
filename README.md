@@ -34,8 +34,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gokeyn&repo=Csharp_atm_ornegi" />
 -->
 
-<h1 align="center">Hi 👋, I'm Gokhan</h1>
-<h3 align="center">Sofware Developer From Turkiye</h3>
+<h1 align="center">Hi 👋, I'm Gökhan</h1>
+<h3 align="center">Sofware Developer From Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokeyn&label=Profile%20views&color=0e75b6&style=flat" alt="gokeyn" /> </p>
 
