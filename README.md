@@ -39,7 +39,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokeyn&label=Profile%20views&color=0e75b6&style=flat" alt="gokeyn" /> </p>
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **.Net Core** and **FastAPI**
 
 - 📫 How to reach me **mertgokhandonmez@gmail.com**
 
