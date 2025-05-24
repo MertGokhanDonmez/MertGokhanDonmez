@@ -41,8 +41,6 @@
 
 - 📫 How to reach me **mertgokhandonmez@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bgPE_d3N4cH4fRQlIYiyXv2vpQ1X1Igu/view?usp=drive_link](https://drive.google.com/file/d/1bgPE_d3N4cH4fRQlIYiyXv2vpQ1X1Igu/view?usp=drive_link)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
